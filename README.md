@@ -219,4 +219,4 @@ Millènaire is available as a **full free version** with all features and update
 Download Millènaire today and step into a world of medieval adventures in Minecraft! Explore, trade, and create your own legacy in this vibrant sandbox experience.
 
 ---
-**Last updated:** 2026-09-20 05:43:54 UTC
+**Last updated:** 2026-09-20 10:40:47 UTC
